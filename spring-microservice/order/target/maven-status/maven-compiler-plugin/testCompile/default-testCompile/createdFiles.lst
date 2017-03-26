@@ -1,0 +1,3 @@
+com\app\test\mapper\TestOrderMapper.class
+com\app\test\util\OrderObjectFactory.class
+com\app\test\service\TestOrderService.class

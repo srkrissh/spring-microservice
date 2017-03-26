@@ -1,0 +1,7 @@
+com\app\ws\rest\CustomerRestController.class
+com\app\repository\CustomerRepository.class
+com\app\service\impl\CustomerServiceImpl.class
+com\app\mapper\CustomerMapper.class
+com\app\service\CustomerService.class
+com\app\entity\CustomerEntity.class
+com\app\dto\Customer.class

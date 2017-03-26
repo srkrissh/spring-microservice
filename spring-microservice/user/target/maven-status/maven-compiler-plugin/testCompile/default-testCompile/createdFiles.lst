@@ -1,0 +1,3 @@
+com\app\test\mapper\TestUserMapper.class
+com\app\test\util\UserObjectFactory.class
+com\app\test\service\TestUserService.class

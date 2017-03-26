@@ -1,0 +1,4 @@
+com\app\ws\test\TestCustomerRestController.class
+com\app\mapper\test\TestCustomerMapper.class
+com\app\service\test\TestCustomerService.class
+com\app\test\util\CustomerObjectFactory.class

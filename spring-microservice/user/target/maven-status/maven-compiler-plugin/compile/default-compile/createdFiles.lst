@@ -1,0 +1,8 @@
+com\app\service\impl\UserServiceImpl.class
+com\app\service\UserService.class
+com\app\dto\User.class
+com\app\ws\rest\UserRestController.class
+com\app\dto\BaseDTO.class
+com\app\entity\UserEntity.class
+com\app\mapper\UserMapper.class
+com\app\repository\UserRepository.class

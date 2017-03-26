@@ -1,0 +1,8 @@
+com\app\entity\OrderEntity.class
+com\app\service\OrderService.class
+com\app\dto\Order.class
+com\app\ws\rest\OrderRestController.class
+com\app\dto\BaseDTO.class
+com\app\mapper\OrderMapper.class
+com\app\repository\OrderRepository.class
+com\app\service\impl\OrderServiceImpl.class
